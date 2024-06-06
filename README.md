@@ -3,7 +3,7 @@
   var x = number("0") //Type Conversion, nessa linha é feita uma conversão de tipo explicita
 ```
 
-varv y ="2" +3 // type coercion,nessa linha é feita uma converção implicito do valor 3 que é númerico(number) para
+varv y = "2" +3 // type coercion,nessa linha é feita uma converção implicito do valor 3 que é númerico(number) para
 texto(string)
 
 //onde usa expressões condicional e repitição,faz necessário um valor boolen (verdadeiro ou falso)
